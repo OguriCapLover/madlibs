@@ -1,6 +1,6 @@
 """
 Filename: madlibs.py
-Author: Kilbourne Joseph
+Author: Seika
 Created: 8/26/2025
 Instructor: Holtslander
 """
@@ -36,4 +36,5 @@ print(f"In a world where Umas were known for their speed and spirit, a {Color}-c
       f" counting down the days on her {Date}. Sliding into her favorite{Gear}, she glanced toward the {Nature} beyond the track.\n"
       f" Her {Vehicle} waited in the parking lot to take her home after the race. The crowd erupted in cheers, shouting,\n"
       f" {Encouragement} as she surged forward. After crossing the finish line,\n "
+
       f"she celebrated with a joyful {Dance} a perfect expression of the {Pride} only a true champion feels.\n")
